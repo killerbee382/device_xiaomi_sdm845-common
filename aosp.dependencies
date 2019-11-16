@@ -2,7 +2,7 @@
   {
     "repository" : "vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "ten"
+    "branch": "ten-beryllium"
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
